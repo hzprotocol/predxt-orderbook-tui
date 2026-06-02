@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "Terminal orderbook monitor powered by predxt"
 requires-python = ">=3.12"
 dependencies = [
-  "predxt @ git+https://github.com/hzprotocol/predxt.git",
+  "predxt>=0.1.0",
   "rich>=15.0.0",
 ]
 
